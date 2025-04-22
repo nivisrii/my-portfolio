@@ -47,29 +47,28 @@ Ensure you have the following installed:
 
   The app will open in your browser at http://localhost:3000.
 
-**Available Scripts**
-In the project directory, you can run:
+**Available Scripts**<br>  In the project directory, you can run:
 
-**npm start**
-Runs the app in development mode.
+**npm start**<br>
+Runs the app in development mode.<br>
 Open http://localhost:3000 to view it in your browser.
 
-The page will reload when you make changes.
+The page will reload when you make changes.<br>
 You may also see any lint errors in the console.
 
-**npm test**
-Launches the test runner in interactive watch mode.
+**npm test**<br>
+Launches the test runner in interactive watch mode.<br>
 See the section about running tests for more information.
 
-**npm run build**
-Builds the app for production to the build folder.
+**npm run build**<br>
+Builds the app for production to the build folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified, and the filenames include the hashes.
+The build is minified, and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-**npm run eject**
-Note: this is a one-way operation. Once you eject, you can't go back!
+**npm run eject**<br>
+**Note:** this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
@@ -77,10 +76,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-**Deployment**
+**Deployment**<br>
 The portfolio is deployed on Vercel for easy hosting and continuous deployment. The deployment process is automatic after pushing changes to the main branch of the GitHub repository.
 
-**License**
+**License**<br>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgements**
