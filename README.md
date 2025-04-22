@@ -39,11 +39,11 @@ Ensure you have the following installed:
      ```bash
    git clone https://github.com/nivisrii/my-portfolio.git
 2. **Navigate into the project directory**:
-     ```cd my-portfolio
+     cd my-portfolio
 3. **Install dependencies**:
-    ```npm install
+     npm install
 4. **Run the app locally**:
-     ```npm start
+     npm start
 
   The app will open in your browser at http://localhost:3000.
 
