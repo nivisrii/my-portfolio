@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
+import 'aos/dist/aos.css';  // Add this line to import AOS styles
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
